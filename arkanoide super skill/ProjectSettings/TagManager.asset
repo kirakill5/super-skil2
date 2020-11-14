@@ -38,6 +38,18 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: bk
+    uniqueID: 4089646189
+    locked: 0
+  - name: left right
+    uniqueID: 2369623615
+    locked: 0
+  - name: top
+    uniqueID: 2948396059
+    locked: 0
+  - name: racket
+    uniqueID: 793302899
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
